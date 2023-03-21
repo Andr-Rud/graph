@@ -1,0 +1,11 @@
+[project]
+name = "compgraph"
+description = "computation graph lib."
+version = "1.0.0"
+authors = [
+    { name = "Akim Sergeev", email = "akvise@gmail.com" }
+]
+
+dependencies = [
+    "click"
+]
